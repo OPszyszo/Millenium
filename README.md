@@ -1,5 +1,3 @@
-# Millenium
-
 <p align="center">
   <img src="https://i.imgur.com/88P6CCX.png" alt="Millenium Logo" width="200"/>
 </p>
